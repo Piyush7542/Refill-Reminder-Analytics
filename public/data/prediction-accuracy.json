@@ -1,0 +1,10 @@
+{
+  "mae": 0.01174043909348442,
+  "rmse": 0.016695373059216208,
+  "within_7_days_pct": 45.786118980169974,
+  "within_14_days_pct": 72.23796033994334,
+  "total_predictions": 2824,
+  "model_type": "Baseline: Median Refill Interval",
+  "training_samples": 4374,
+  "test_samples": 2824
+}

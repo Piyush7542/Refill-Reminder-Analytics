@@ -1,0 +1,42 @@
+[
+  {
+    "segment": "High Value",
+    "customer_count": 323,
+    "avg_age": 50.8421052631579,
+    "avg_orders_per_customer": 9.514385353095031,
+    "avg_spent_per_customer": 572.9550392327811,
+    "avg_days_between_orders": 57.707061900610285,
+    "reminder_eligible_count": 569,
+    "reminder_eligible_pct": 49.607672188317345
+  },
+  {
+    "segment": "Regular",
+    "customer_count": 766,
+    "avg_age": 46.23237597911227,
+    "avg_orders_per_customer": 6.4375,
+    "avg_spent_per_customer": 411.45992055084747,
+    "avg_days_between_orders": 58.33871822033898,
+    "reminder_eligible_count": 1375,
+    "reminder_eligible_pct": 72.82838983050848
+  },
+  {
+    "segment": "Occasional",
+    "customer_count": 606,
+    "avg_age": 42.47029702970297,
+    "avg_orders_per_customer": 2.7799097065462752,
+    "avg_spent_per_customer": 199.82803611738152,
+    "avg_days_between_orders": 57.50056433408578,
+    "reminder_eligible_count": 822,
+    "reminder_eligible_pct": 92.7765237020316
+  },
+  {
+    "segment": "At Risk",
+    "customer_count": 305,
+    "avg_age": 57.04262295081967,
+    "avg_orders_per_customer": 1.9646799116997793,
+    "avg_spent_per_customer": 138.35192052980133,
+    "avg_days_between_orders": 58.973509933774835,
+    "reminder_eligible_count": 418,
+    "reminder_eligible_pct": 92.27373068432672
+  }
+]
